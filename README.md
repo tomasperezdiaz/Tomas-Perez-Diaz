@@ -2,6 +2,9 @@
 Hola, soy Tomas
 Soy estudiante de programacion en CoderHouse. Me gusta el diseño e incursionar en las nuevas tecnologias.
 
+Hello, I'm Tomas.
+I'm a programming student at CoderHouse. I like design and delving into new technologies.
+
 Lenguajes y programas con los que programo:
 
 ![image](https://github.com/tomasperezdiaz/Tomas-Perez-Diaz/assets/145075920/9f74614a-643b-48f9-814a-10993b6737c2)
