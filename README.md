@@ -1,11 +1,11 @@
 # Tomas-Perez-Diaz
 Hola, soy Tomas
 Soy estudiante de programacion en CoderHouse. Me gusta el diseño e incursionar en las nuevas tecnologias.
+Lenguajes y programas con los que programo:
 
 Hello, I'm Tomas.
 I'm a programming student at CoderHouse. I like design and delving into new technologies.
-
-Lenguajes y programas con los que programo:
+Languages and programs I program with:
 
 ![image](https://github.com/tomasperezdiaz/Tomas-Perez-Diaz/assets/145075920/9f74614a-643b-48f9-814a-10993b6737c2)
 ![image](https://github.com/tomasperezdiaz/Tomas-Perez-Diaz/assets/145075920/400368dc-d7e2-45af-acbf-34fb4080cd49)
